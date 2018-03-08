@@ -23,7 +23,7 @@
 ###############################################################################################
 
 # Set the DBB bin directory
-DBB_HOME=
+DBB_HOME=/var/dbb
 
 # $DBB_HOME/bin/groovyz automatically sets the env variables and classpath required for DBB
 CMD="$DBB_HOME/bin/groovyz build.groovy $@"
