@@ -4,7 +4,7 @@
 ##  This sample shell script is provided as an easy way to invoke the Mortgage Application
 ##  sample build from the command line. 
 ##
-##  usage: build.sh [options] <buildfile> 
+##  usage: build.sh [options] <buildfile> ***
 ## 
 ##  buildFile:  Relative path (from sourceDir) of the file to build. If file
 ##  is *.txt then is assumed to be a buildlist file containing a list of relative
